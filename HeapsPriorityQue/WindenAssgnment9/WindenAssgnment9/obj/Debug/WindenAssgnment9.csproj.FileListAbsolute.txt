@@ -1,0 +1,7 @@
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\bin\Debug\WindenAssgnment9.exe.config
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\bin\Debug\WindenAssgnment9.exe
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\bin\Debug\WindenAssgnment9.pdb
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\obj\Debug\WindenAssgnment9.csprojResolveAssemblyReference.cache
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\obj\Debug\WindenAssgnment9.csproj.CoreCompileInputs.cache
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\obj\Debug\WindenAssgnment9.exe
+c:\users\winde\source\repos\WindenAssgnment9\WindenAssgnment9\obj\Debug\WindenAssgnment9.pdb
